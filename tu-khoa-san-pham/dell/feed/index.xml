@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dell &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/dell/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lecongnghia024.github.io/newmywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:43:45 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Laptop Dell Gaming G3 15 i7 10750H/16GB/512GB/6GB GTX1660Ti/120Hz/Win10 (P89F002BWH)</title>
+		<link>https://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/</link>
+					<comments>https://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/#respond</comments>
+		
+		<dc:creator><![CDATA[lecongnghia]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:43:42 +0000</pubDate>
+				<guid isPermaLink="false">https://lecongnghia024.github.io/newmywordpress/?post_type=product&#038;p=91</guid>
+
+					<description><![CDATA[CPU: i710750H2.6GHz RAM: 16 GBDDR4 2 khe (1 khe 8GB + 1 khe 8GB)2933 MHz Ổ cứng: SSD 512 GB NVMe PCIeHỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng Màn hình: 15.6&#8243;Full HD (1920 x 1080)120Hz Card màn hình: Card rờiGTX 1660Ti 6GB Cổng kết nối: Jack tai nghe 3.5 mm1 x [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="parameter__list 244385 active">
+<li data-index="0" data-prop="0">
+<p class="lileft">CPU: <span class="comma">i7</span><span class="comma">10750H</span><span class="">2.6GHz</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">RAM: <span class="comma">16 GB</span><span class="comma">DDR4 2 khe (1 khe 8GB + 1 khe 8GB)</span><span class="">2933 MHz</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Ổ cứng: <span class="comma">SSD 512 GB NVMe PCIe</span><span class="">Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Màn hình: <span class="comma">15.6&#8243;</span><span class="comma">Full HD (1920 x 1080)</span><span class="">120Hz</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Card màn hình: <span class="comma">Card rời</span><span class="">GTX 1660Ti 6GB</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Cổng kết nối: <span class="comma">Jack tai nghe 3.5 mm</span><span class="comma">1 x USB 3.2</span><span class="comma">HDMI</span><span class="comma">LAN (RJ45)</span><span class="comma">Thunderbolt 3</span><span class="comma">2 x USB 2.0</span><span class="">Mini DisplayPort</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Đặc biệt: <span class="">Có đèn bàn phím</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Hệ điều hành: <span class="">Windows 10 Home SL</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Thiết kế: <span class="">Vỏ nhựa</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Kích thước, trọng lượng: <span class="">Dài 364.46 mm &#8211; Rộng 254 mm &#8211; Dày 30.96 mm &#8211; Nặng 2.58 kg</span></p>
+</li>
+<li data-index="0" data-prop="0">
+<p class="lileft">Thời điểm ra mắt: <span class="">2020</span></p>
+</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
