@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>lenovo &#8211; My wordpress</title>
+	<title>lenovo &#8211; My Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/lenovo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lecongnghia024.github.io/newmywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Cửa hàng thiết bị</description>
 	<lastBuildDate>Sun, 26 Sep 2021 12:15:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

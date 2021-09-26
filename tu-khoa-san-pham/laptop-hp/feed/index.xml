@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Laptop HP &#8211; My wordpress</title>
+	<title>Laptop HP &#8211; My Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/laptop-hp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lecongnghia024.github.io/newmywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 09:22:43 +0000</lastBuildDate>
+	<description>Cửa hàng thiết bị</description>
+	<lastBuildDate>Sun, 26 Sep 2021 12:32:44 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

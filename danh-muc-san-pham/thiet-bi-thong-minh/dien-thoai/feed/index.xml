@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Điện Thoại &#8211; My wordpress</title>
+	<title>Điện Thoại &#8211; My Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/thiet-bi-thong-minh/dien-thoai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lecongnghia024.github.io/newmywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Cửa hàng thiết bị</description>
 	<lastBuildDate>Sun, 26 Sep 2021 12:14:47 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

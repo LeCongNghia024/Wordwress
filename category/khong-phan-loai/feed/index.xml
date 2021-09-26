@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Chưa phân loại &#8211; My wordpress</title>
+	<title>Chưa phân loại &#8211; My Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lecongnghia024.github.io/newmywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Cửa hàng thiết bị</description>
 	<lastBuildDate>Wed, 08 Sep 2021 01:19:50 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
