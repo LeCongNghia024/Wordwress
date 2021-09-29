@@ -10,7 +10,7 @@
 <channel>
 	<title>Dell &#8211; My Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/dell/feed/" rel="self" type="application/rss+xml" />
-	<link>http://lecongnghia024.github.io/newmywordpress</link>
+	<link>https://lecongnghia024.github.io/newmywordpress</link>
 	<description>Cửa hàng thiết bị</description>
 	<lastBuildDate>Sun, 26 Sep 2021 12:15:51 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Laptop Dell Gaming G3 15 i7 10750H/16GB/512GB/6GB GTX1660Ti/120Hz/Win10 (P89F002BWH)</title>
-		<link>http://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/</link>
-					<comments>http://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/#respond</comments>
+		<link>https://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/</link>
+					<comments>https://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/#respond</comments>
 		
 		<dc:creator><![CDATA[lecongnghia]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 11:43:42 +0000</pubDate>
-				<guid isPermaLink="false">http://lecongnghia024.github.io/newmywordpress/?post_type=product&#038;p=91</guid>
+				<guid isPermaLink="false">https://lecongnghia024.github.io/newmywordpress/?post_type=product&#038;p=91</guid>
 
 					<description><![CDATA[CPU: i710750H2.6GHz RAM: 16 GBDDR4 2 khe (1 khe 8GB + 1 khe 8GB)2933 MHz Ổ cứng: SSD 512 GB NVMe PCIeHỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng Màn hình: 15.6&#8243;Full HD (1920 x 1080)120Hz Card màn hình: Card rờiGTX 1660Ti 6GB Cổng kết nối: Jack tai nghe 3.5 mm1 x [&#8230;]]]></description>
 										<content:encoded><![CDATA[<ul class="parameter__list 244385 active">
@@ -66,7 +66,7 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lecongnghia024.github.io/newmywordpress/sản%20phẩm/laptop-dell-gaming-g3-15-i7-10750h-16gb-512gb-6gb-gtx1660ti-120hz-win10-p89f002bwh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
